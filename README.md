@@ -1,4 +1,4 @@
 genedetectr
 ===========
 
-A package for gene filtering and co-expression analysis
+# A Framework for Gene Prediction, Gene Expression Clustering, and Genomic Data Mining 
